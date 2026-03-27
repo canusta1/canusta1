@@ -23,10 +23,6 @@ Kod yazmanın ötesinde; ölçeklenebilir, güvenli ve toplumsal fayda (Tech for
 </p>
 
 ### 📊 GitHub İstatistiklerim
-<p align="left">
-  <a href="https://github.com/canusta1">
-    <img src="https://github-readme-stats.vercel.app/api?username=canusta1&show_icons=true&theme=radical&hide_border=true&locale=tr" alt="canusta1 GitHub Stats" />
-  </a>
-</p>
+[![canusta1 GitHub Stats](https://github-readme-stats.vercel.app/api?username=canusta1&show_icons=true&theme=radical&hide_border=true)](https://github.com/canusta1)
 
 📫 **Benimle İletişime Geçin:** Profilimdeki LinkedIn bağlantısı üzerinden mesaj atabilirsiniz.
